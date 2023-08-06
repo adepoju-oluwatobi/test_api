@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "id": 2
+      "id": 2,
       "name": "Mrs Salu",
       "monthlySavings": "20,000",
       "loanAmount": "-",
       "loanBalance": "-",
       "monthlyDeduction": "-",
-      "availableBalance": "50,000",
+      "availableBalance": "50,000"
     }
   ]
 }
