@@ -1,13 +1,31 @@
 {
   "users": [
+     {
+        "name": "Salu",
+        "monthlySavings": "20,000",
+        "loanAmount": "-",
+        "loanBalance": "-",
+        "monthlyDeduction": "-",
+        "availableBalance": "50,000",
+        "id": 1
+    },
     {
-      "name": "Salu",
-      "monthlySavings": "20,000",
-      "loanAmount": "-",
-      "loanBalance": "-",
-      "monthlyDeduction": "-",
-      "availableBalance": "50,000",
-      "id": 1
+        "name": "Adepoju",
+        "monthlySavings": "20,000",
+        "loanAmount": "",
+        "loanBalance": "",
+        "monthlyDeduction": "",
+        "availableBalance": "",
+        "id": 2
+    },
+    {
+        "name": "Samuel",
+        "monthlySavings": "20,000",
+        "loanAmount": "",
+        "loanBalance": "",
+        "monthlyDeduction": "",
+        "availableBalance": "",
+        "id": 3
     }
   ]
 }
