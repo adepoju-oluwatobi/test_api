@@ -6,7 +6,8 @@
       "loanAmount": "-",
       "loanBalance": "-",
       "monthlyDeduction": "-",
-      "availableBalance": "50,000"
+      "availableBalance": "50,000",
+      "id": 1
     }
   ]
 }
